@@ -14,7 +14,7 @@ export default function Terms() {
         </div>
 
         <h1>Terms of Service</h1>
-        <p className="updated">Last updated: December 2024</p>
+        <p className="updated">Last updated: December 2025</p>
 
         <p>Welcome to Lingo Journal. By using our app, you agree to these Terms of Service.</p>
 
@@ -29,12 +29,13 @@ export default function Terms() {
           <li>Vocabulary saving and flashcard features</li>
           <li>Optional iCloud synchronization</li>
         </ul>
+        <p><strong>Language Support:</strong> The app currently supports Chinese speakers learning English. Support for additional languages may be added in future updates.</p>
 
         <h2>3. User Accounts</h2>
         <ul>
           <li>You must sign in with Apple to use the app</li>
           <li>You are responsible for maintaining the security of your account</li>
-          <li>You must be at least 13 years old to use this app</li>
+          <li>If you are under 18, you should have parental consent to use this app</li>
         </ul>
 
         <h2>4. Subscription and Payments</h2>
@@ -84,7 +85,7 @@ export default function Terms() {
 
         <h2>12. Contact</h2>
         <p>If you have any questions about these Terms, please contact us at:</p>
-        <p>Email: <a href="mailto:support@lingojournal.app">support@lingojournal.app</a></p>
+        <p>Email: <a href="mailto:langlangdev@gmail.com">langlangdev@gmail.com</a></p>
       </div>
     </div>
   )

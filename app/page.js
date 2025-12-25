@@ -30,8 +30,19 @@ export default function Home() {
           Lingo Journal
         </h1>
 
-        <p style={{ color: '#666', fontSize: '1.2em', marginBottom: '40px' }}>
+        <p style={{ color: '#666', fontSize: '1.2em', marginBottom: '20px' }}>
           Master any language through daily journaling with AI-powered feedback
+        </p>
+        <p style={{
+          color: '#888',
+          fontSize: '0.95em',
+          marginBottom: '40px',
+          padding: '10px 20px',
+          background: 'rgba(0,0,0,0.03)',
+          borderRadius: '8px',
+          display: 'inline-block'
+        }}>
+          Currently supports Chinese speakers learning English
         </p>
 
         <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', flexWrap: 'wrap' }}>
@@ -60,8 +71,8 @@ export default function Home() {
         </div>
 
         <footer style={{ marginTop: '60px', color: '#999', fontSize: '0.9em' }}>
-          <p>&copy; 2024 Lingo Journal. All rights reserved.</p>
-          <p>Contact: <a href="mailto:support@lingojournal.app" style={{ color: '#999' }}>support@lingojournal.app</a></p>
+          <p>&copy; 2025 Lingo Journal. All rights reserved.</p>
+          <p>Contact: <a href="mailto:langlangdev@gmail.com" style={{ color: '#999' }}>langlangdev@gmail.com</a></p>
         </footer>
       </div>
     </div>
