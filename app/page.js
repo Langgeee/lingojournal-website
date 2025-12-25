@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
 
         <p style={{ color: '#666', fontSize: '1.2em', marginBottom: '20px' }}>
-          Master any language through daily journaling with AI-powered feedback
+          Capture life, Grow your English.
         </p>
         <p style={{
           color: '#888',
