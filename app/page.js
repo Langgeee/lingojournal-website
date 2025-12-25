@@ -11,20 +11,17 @@ export default function Home() {
       padding: '20px'
     }}>
       <div style={{ textAlign: 'center', maxWidth: '600px' }}>
-        <div style={{
-          width: '120px',
-          height: '120px',
-          background: '#2C3E50',
-          borderRadius: '24px',
-          margin: '0 auto 30px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          fontSize: '48px',
-          boxShadow: '0 10px 30px rgba(0,0,0,0.2)'
-        }}>
-          📝
-        </div>
+        <img
+          src="/app-icon.png"
+          alt="Lingo Journal"
+          style={{
+            width: '120px',
+            height: '120px',
+            borderRadius: '24px',
+            margin: '0 auto 30px',
+            boxShadow: '0 10px 30px rgba(0,0,0,0.2)'
+          }}
+        />
 
         <h1 style={{ color: '#2C3E50', fontSize: '2.5em', marginBottom: '15px' }}>
           Lingo Journal
