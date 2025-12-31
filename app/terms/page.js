@@ -14,7 +14,7 @@ export default function Terms() {
         </div>
 
         <h1>Terms of Service</h1>
-        <p className="updated">Last updated: December 2025</p>
+        <p className="updated">Last updated: January 2026</p>
 
         <p>Welcome to Lingo Journal. By using our app, you agree to these Terms of Service.</p>
 

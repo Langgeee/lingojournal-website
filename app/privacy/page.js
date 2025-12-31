@@ -14,7 +14,7 @@ export default function Privacy() {
         </div>
 
         <h1>Privacy Policy</h1>
-        <p className="updated">Last updated: December 2025</p>
+        <p className="updated">Last updated: January 2026</p>
 
         <p>Lingo Journal (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.</p>
 
