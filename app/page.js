@@ -40,7 +40,7 @@ export default function Home() {
         </p>
 
         <div style={{ marginBottom: '40px' }}>
-          <a href="https://apps.apple.com/app/lingojournal/id6740192796" target="_blank" rel="noopener noreferrer">
+          <a href="https://apps.apple.com/au/app/lingo-journal/id6757097283" target="_blank" rel="noopener noreferrer">
             <img
               src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
               alt="Download on the App Store"
