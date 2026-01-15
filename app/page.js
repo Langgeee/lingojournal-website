@@ -27,20 +27,27 @@ export default function Home() {
           Lingo Journal
         </h1>
 
-        <p style={{ color: '#666', fontSize: '1.2em', marginBottom: '20px' }}>
-          Capture life, Grow your English.
+        <p style={{ color: '#7B1FA2', fontSize: '1.4em', fontWeight: '600', marginBottom: '15px' }}>
+          Capture life, Grow your language.
         </p>
         <p style={{
-          color: '#888',
-          fontSize: '0.95em',
+          color: '#666',
+          fontSize: '1.1em',
           marginBottom: '40px',
-          padding: '10px 20px',
-          background: 'rgba(0,0,0,0.03)',
-          borderRadius: '8px',
-          display: 'inline-block'
+          lineHeight: '1.7'
         }}>
-          Currently supports Chinese speakers learning English
+          With AI assistance, write journals in your target language. Turn expression into the shortcut to truly mastering a new language.
         </p>
+
+        <div style={{ marginBottom: '40px' }}>
+          <a href="https://apps.apple.com/app/lingojournal/id6740192796" target="_blank" rel="noopener noreferrer">
+            <img
+              src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+              alt="Download on the App Store"
+              style={{ height: '54px' }}
+            />
+          </a>
+        </div>
 
         <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', flexWrap: 'wrap' }}>
           <Link href="/privacy" style={{
@@ -63,12 +70,8 @@ export default function Home() {
           </Link>
         </div>
 
-        <div style={{ marginTop: '40px' }}>
-          <p style={{ color: '#999' }}>Coming soon to the App Store</p>
-        </div>
-
         <footer style={{ marginTop: '60px', color: '#999', fontSize: '0.9em' }}>
-          <p>&copy; 2026 Lingo Journal. All rights reserved.</p>
+          <p>&copy; 2025 Lingo Journal. All rights reserved.</p>
           <p>Contact: <a href="mailto:langlangdev@gmail.com" style={{ color: '#999' }}>langlangdev@gmail.com</a></p>
         </footer>
       </div>
