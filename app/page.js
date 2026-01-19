@@ -71,7 +71,7 @@ export default function Home() {
         </div>
 
         <footer style={{ marginTop: '60px', color: '#999', fontSize: '0.9em' }}>
-          <p>&copy; 2025 Lingo Journal. All rights reserved.</p>
+          <p>&copy; 2026 Lingo Journal. All rights reserved.</p>
           <p>Contact: <a href="mailto:langlangdev@gmail.com" style={{ color: '#999' }}>langlangdev@gmail.com</a></p>
         </footer>
       </div>
